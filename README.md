@@ -1,3 +1,3 @@
 # practice-git
 
-Este es el primer camvio 
+Este es el primer cambio 
